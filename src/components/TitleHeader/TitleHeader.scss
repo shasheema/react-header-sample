@@ -69,12 +69,7 @@ $open-sans: 'Open Sans';
             color: black;
             margin: 0 auto;
             padding: 24px 0;
-            margin-top: 200px;
-            z-index: 10000;
-
-            @media screen and (max-width: 1024px) {
-                margin-top: 20px;
-            }
+            margin-top: 63px;
 
             @media screen and (min-width: 300px) {
                 font-size: 18px;
